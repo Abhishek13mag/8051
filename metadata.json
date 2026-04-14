@@ -1,0 +1,6 @@
+{
+  "name": "8051 Traffic Controller Sim",
+  "description": "A real-time 8051 Assembly simulator for a smart 4-lane traffic light controller with interactive visualization and I/O controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
